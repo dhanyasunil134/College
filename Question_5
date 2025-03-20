@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Fitness Blog</title>
+  </head>
+  <body>
+    <div>
+      <header>
+        <h1>My Fitness Blog</h1>
+        <p>Welcome to Fitness Fusion, your go-to destination for unlocking a healthier, stronger, and happier you! My blog is packed with the latest fitness trends, effective workout routines, expert nutrition advice, and motivational tips to help you crush your wellness goals. Whether you're a seasoned fitness enthusiast or just starting your journey, I've got you covered. My mission is to inspire, educate, and support you every step of the way, with actionable tips and advice on quick and effective workouts, healthy eating, and mindful living.</p>
+      </header>
+      <hr> 
+      <div>
+        <h2>Workout Routines</h2>
+        <ul>
+	<li>Monday Motivation Workout: A weekly workout routine to kickstart the week</li>
+	<li>10-Minute Morning Workout: A quick and effective workout for busy mornings</li>
+	<li>Leg Day Workout: A comprehensive workout routine targeting legs and glutes</li>
+	<li>Core Workout: A workout routine focusing on core strength and stability</li>	
+	<li>Yoga for Beginners: A step-by-step guide to yoga for beginners</li>
+	</ul>
+        <a href="#">Read More</a>
+      </div>
+      <hr>
+      <div>
+        <h2>Nutrition and Diet</h2>
+        <ul>
+	<li>Meal Prep Ideas: Healthy meal prep ideas for a balanced diet</li>
+	<li>Macronutrient Balance: Understanding the importance of macronutrients for fitness</li>
+	<li>Intermittent Fasting: Benefits and drawbacks of intermittent fasting for weight loss</li>
+	<li>Post-Workout Nutrition: What to eat after a workout for optimal recovery</li>
+	<li>Healthy Snacking: Healthy snacking ideas for fitness enthusiasts</li>
+	</ul>
+        <a href="#">Read More</a>
+      </div>
+      <hr>
+      <footer>
+        <p>&copy; 2025 My Simple Blog. All Rights Reserved.</p>
+      </footer>
+
+    </div>
+
+  </body>
+</html>
