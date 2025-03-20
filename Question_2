@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+	<title>College Webpage</title>
+</head>
+<body>
+<h1><center>AMAL JYOTHI COLLEGE OF ENGINEERING,KANJIRAPALLY</center></title>
+        <h1><center>Welcome to our college!</center> </h1>
+ 	<p><center>Your Gateway to Knowledge</center></p>
+	<h2>Our courses</h2>
+	<p><a href="https://www.ajce.in/cse/addoncourses.html" target="_blank">Courses</a></p>
+	<p>We offer a wide variety of of undergraduate, graduate and other courses across different disciplines.</p>
+	 <h2>Departments</h2>
+        <p><a href="https://www.ajce.in/home/btechadmissions.html" target="_blank">Departments</a></p>
+        <ul>
+            <li>Department of Computer Science and Engineering</li>
+            <li>Department of Electronics and Communication Engineering</li>
+            <li>Department of Mechanical Engineering</li>
+            <li>Department of Food Technology</li>
+	    <li>Deaprtment og AI and Machine learning</li>
+            <li>Department of Civil Engineering</li>
+            <li>Department of Electrical and Electronics Engineering</li>
+   	</ul>
+	<h2>Faculties</h2>
+	<p><a href="https://ajce.in/cse/facultylist.html" target="_blank">Faculties</a></p>
+        <p>We have a team highly experienced and dedicated faculties who are experts in their fields</p>
+        <ul>
+            <li>Dr. John Doe - Head of Computer Science Department</li>
+            <li>Dr. Jane Smith - Head of Electronics Department</li>
+            <li>Dr. Alan Walker - Head of Mechanical Engineering Department</li>
+        </ul>
+	 <h2>Library</h2>
+	<p><a href="https://www.ajce.in/lib/" target="_blank">Library</a></p>
+        <p>Our campus has a central library, providing students with access to a wide range of books and journals.</p>
+        <ul>
+            <li>Great collection of academic texts, journals</li>
+            <li>Access to online journals and databases</li>
+            <li>Vast study space</li>
+        </ul>
+	<footer>
+        <p align="center">Contact Us: <a href="mailto:info@amaljyothi.ac.in">info@amaljyothi.ac.in</a> | Phone: +91 4562345677</p>
+        <p align="center">&copy; 2025 Amal Jyothi College of Engineering. All rights reserved.</p>
+    </footer>
+</body>
+</html>
